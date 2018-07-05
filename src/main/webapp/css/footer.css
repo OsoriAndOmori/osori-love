@@ -1,0 +1,25 @@
+footer{
+	marin: 50px 0 0 30px;
+	height:130px;
+	background-image:url(../images/copy.jpg);
+	background-repeat:no-repeat;
+	background-position:40px center;
+}
+footer hr{
+	width:900px;
+	margin:0 0 0 30px;
+}
+
+footer #copy{
+	font-family:seo;
+	width:450px;
+	margin:40px 0 0 170px;
+	float:left;
+
+}
+
+footer #social{
+	width:130px;
+	margin:20px 20px 0 0;
+	float:right;
+}

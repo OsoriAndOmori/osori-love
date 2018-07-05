@@ -1,0 +1,136 @@
+article{
+		width:632px;
+		margin:auto;
+}
+
+article h1{
+	font-family:"Times New Roman", Times, serif;
+	font-size:45px;
+	color:#CCC;
+	margin:20px 0;
+	font-weight:normal;
+}
+form#join{
+	margin: 10px 0 0 0;
+	width:670px;
+}
+
+form#join fieldset{
+	padding:10px 0 20px 5px;
+	border:none;
+}
+
+form#join fieldset legend{
+	font-family:seo;
+	font-size:20px;
+	border-bottom:1px dotted #666;
+	width:600px;
+	padding:5px 0;
+}
+
+form#join label{
+	width:140px;
+	float:left;
+	margin:10px 0;
+}
+form#join input {
+	margin :10px 0;
+	border:1px solid #999;
+	background-color:#FCFDEA;
+}
+
+#join input.dup{
+	width:120px;
+	height:23px;
+	background-color:#FAECC5;
+	border-radius:8px;
+	border:none;
+	margin:0 0 0 5px;
+	font-weight:bold;
+	box-shadow:3px 3px 2px #ccc;
+}
+form#join input.submit, form#join input.cancel{
+	width:150px;
+	height:30px;
+	background-color:#FAECC5;
+	border-radius:10px;
+	border:none;
+	font-weight:bold;
+	font-size:14px;
+	box-shadow:3px 3px 2px #ccc;
+}
+
+form#join input.login{
+	width:70px;
+	height:60px;
+	background-color:#FAECC5;
+	border-radius:10px;
+	border:none;
+	font-weight:bold;
+	font-size:14px;
+	box-shadow:3px 3px 2px #ccc;
+}
+
+#login_button{
+	width: 73px;
+	height: 47px;
+	margin: 28px 0 0 -3px;
+	line-height: 47px;
+	background-position: 0 -95px;
+}
+form#login{
+	margin: 10px 0 0 0;
+	width:670px;
+}
+
+form#login fieldset{
+	padding:10px 0 20px 5px;
+	border:none;
+}
+
+form#login fieldset legend{
+	font-family:seo;
+	font-size:20px;
+	border-bottom:1px dotted #666;
+	width:600px;
+	padding:5px 0;
+}
+
+form#login label{
+	width:140px;
+	float:left;
+	margin:10px 0;
+}
+form#login input {
+	margin :10px 0;
+	border:1px solid #999;
+	background-color:#FCFDEA;
+}
+
+form#login input.login{
+	width:70px;
+	height:60px;
+	background-color:#FAECC5;
+	border-radius:10px;
+	border:none;
+	font-weight:bold;
+	font-size:14px;
+	box-shadow:3px 3px 2px #ccc;
+}
+
+#welcome{
+	float : right;
+	border-radius:10px;
+	background-color : #gray;
+}
+
+#logout_button{
+	width: 80px;
+	height: 20px;
+	background-color:#FAECC5;
+	border-radius:10px;
+	border:none;
+	font-weight:bold;
+	font-size:14px;
+	box-shadow:3px 3px 2px #ccc;
+}
