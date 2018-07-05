@@ -1,4 +1,4 @@
-package com.osori.love;
+package com.osori.love.common.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

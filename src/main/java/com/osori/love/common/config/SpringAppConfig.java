@@ -7,6 +7,7 @@
 package com.osori.love.common.config;
 
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.ViewResolver;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
@@ -17,6 +18,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
  * @author 스포츠_개발 (dl_sports_sweng@navercorp.com)
  */
 @Configuration
+@ComponentScan("com.osori.love")
 public class SpringAppConfig {
 	@Bean
 	public ViewResolver getViewResolver() {

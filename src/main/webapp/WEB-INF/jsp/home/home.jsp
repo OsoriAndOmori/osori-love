@@ -11,8 +11,8 @@
 	<link href="/css/header.css" rel="stylesheet" type="text/css">
 	<link href="/css/home.css" rel="stylesheet" type="text/css">
 	<link href="/css/footer.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript" src="/js/jquery-1.11.2.js"></script>
-	<script type="text/javascript" src="/js/s3Slider.js"></script>
+	<script type="text/javascript" src="/js/lib/jquery/jquery-1.11.2.js"></script>
+	<script type="text/javascript" src="/js/lib/jquery/plugins/s3Slider.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function() { 
 		$('#s3slider').s3Slider({
@@ -29,7 +29,7 @@
 		<a href="../main/main.html"><img src="/images/logo.png" width="320" height="62" alt="KimKiHoon"/></a>	</div>
 		<nav id="top_menu">
             <ul>
-                <li><a href="main.jsp">HOME</a></li>
+                <li><a href="home.jsp">HOME</a></li>
                 <li><a href="../study/study_main.html">STUDY</a></li>
                 <li><a href="../music/music.html">MUSIC</a></li>
                 <li><a href="../friends/friends.html">FRIENDS</a></li>
