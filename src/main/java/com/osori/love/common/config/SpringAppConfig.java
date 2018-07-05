@@ -14,8 +14,6 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 /**
  * SpringAppConfig
- *
- * @author 스포츠_개발 (dl_sports_sweng@navercorp.com)
  */
 @Configuration
 @ComponentScan("com.osori.love")
