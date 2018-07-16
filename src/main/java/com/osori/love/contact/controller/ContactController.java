@@ -7,10 +7,15 @@
 package com.osori.love.contact.controller;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
 
 /**
  * ContactController 
  */
 @Controller
 public class ContactController {
+	@GetMapping(value = "/contact")
+	public String test() {
+		return "contact/contact";
+	}
 }

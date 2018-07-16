@@ -26,14 +26,14 @@
 	<header>
 		<div class="clear"></div>	
 		<div id="logo">
-		<a href="../main/main.html"><img src="/images/logo.png" width="320" height="62" alt="KimKiHoon"/></a>	</div>
+		<a href="/"><img src="/images/logo.png" width="320" height="62" alt="KimKiHoon"/></a>	</div>
 		<nav id="top_menu">
             <ul>
-                <li><a href="home.jsp">HOME</a></li>
-                <li><a href="../study/study_main.html">STUDY</a></li>
-                <li><a href="../music/music.html">MUSIC</a></li>
-                <li><a href="../friends/friends.html">FRIENDS</a></li>
-                <li><a href="../contact/contact.html">CONTACT ME</a></li>
+                <li><a href="/">HOME</a></li>
+                <li><a href="/spec">SPEC</a></li>
+                <li><a href="/music">MUSIC</a></li>
+                <li><a href="/friend">FRIENDS</a></li>
+                <li><a href="/contact">CONTACT ME</a></li>
 			</ul>
 		</nav>
 	</header>	
